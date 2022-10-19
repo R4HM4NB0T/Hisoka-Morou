@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Dika Ardnt.",
+  "author": "Rahman_MD.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "github:FatihArridho/Baileys",
